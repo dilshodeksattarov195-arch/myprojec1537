@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersave",
+        "uuid": 3894758,
+        "checksum": "dkcdz"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
